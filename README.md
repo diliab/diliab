@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Dilia Berrios 😊
 
-<!--
-**diliab/diliab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in software development, applied math, and cybersecurity. I am a third year student at Mizzou 🐯, and am planning to graduate with a Bachelor of Science degree in Computer Science, Applied Math, and a certificate in Cybersecurity. 
+Right now, I'm building up a stronger project portfolio by cleaning up my academic work and adding more security-focused projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student
+- 🔐 Interested in cybersecurity, secure systems, and practical problem solving
+- 💻 Working with C++, Python, and Java
+- 📊 Interested in applied math and data-driven, real-world thinking
+- 🌱 Building projects that connect theory, security, and real-world applications
+
+## Featured Projects
+
+### DFA/NFA Visualizer
+A Python-based automata theory visualizer built in Google Colab for a school project.  
+It helps demonstrate deterministic and nondeterministic finite automata through input testing and state transitions.
+
+**Tech:** Python, Google Colab, automata theory
+
+### Variable-Bit Encoding
+A C++ project that uses frequency analysis and heap-based logic to generate variable-length binary encodings for text.
+
+**Tech:** C++, heaps, file input, encoding logic
+
+### Maze Escape Game
+A C++ maze game project focused on problem solving, control flow, and program structure.
+
+**Tech:** C++, game logic, algorithms
+
+## Currently Learning
+
+- Cybersecurity fundamentals
+- Secure coding practices
+- Networking basics
+- Linux and command-line tools
+- Data structures and algorithms
+
+## Goals
+
+I'm currently organizing my GitHub into a portfolio that shows both my academic foundation and my growing interest in cybersecurity.
+
+## Connect
+
+- GitHub: [@diliab](https://github.com/diliab)
+- LinkedIn: [@diliaberrios](https://www.linkedin.com/in/dilia-berrios/)

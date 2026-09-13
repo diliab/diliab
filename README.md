@@ -1,15 +1,14 @@
 # Hi, I'm Dilia Berrios 😊
 
-I'm a Computer Science student interested in software development, applied math, and cybersecurity. I am a third year student at Mizzou 🐯, and am planning to graduate with a Bachelor of Science degree in Computer Science, Applied Math, and a certificate in Cybersecurity. 
-Right now, I'm building up a stronger project portfolio by cleaning up my academic work and adding more security-focused projects.
+I'm a Computer Science student interested in software development and applied math. I am a third year student at University of Missouri-Columbia, and am planning to graduate with a Bachelor of Science degree in Computer Science and Applied Math.
 
 ## About Me
 
-- 🎓 Computer Science student
-- 🔐 Interested in cybersecurity, secure systems, and practical problem solving
-- 💻 Working with C++, Python, and Java
-- 📊 Interested in applied math and data-driven, real-world thinking
-- 🌱 Building projects that connect theory, security, and real-world applications
+- Computer Science student
+- Interested in cybersecurity, secure systems, and practical problem solving
+- Working with C++, Python, and Java
+- Interested in applied math and data-driven, real-world thinking
+- Building projects that connect theory, security, and real-world applications
 
 ## Featured Projects
 
@@ -31,7 +30,6 @@ A C++ maze game project focused on problem solving, control flow, and program st
 
 ## Currently Learning
 
-- Cybersecurity fundamentals
 - Secure coding practices
 - Networking basics
 - Linux and command-line tools
